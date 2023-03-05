@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewClock">
+        <attr name="lightBackgroundColor" format="reference|string" />
+        <attr name="lightShadowColor" format="reference|string" />
+        <attr name="darkShadowColor" format="reference|string" />
+        <attr name="borderColor" format="reference|string" />
+        <attr name="minHourHandsColor" format="reference|string" />
+        <attr name="secondsHandColor" format="reference|string" />
+        <attr name="textColor" format="reference|string" />
+        <attr name="textSize" format="dimension" />
+
+    </declare-styleable>
+</resources>
